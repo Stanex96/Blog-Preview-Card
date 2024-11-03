@@ -1,0 +1,71 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+
+.zone_blanche{
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 10px 10px;
+    margin: auto;
+    display: block;
+    height: 700px;
+    width: 500px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.dessin{
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    display: block;
+    padding-top: 5%;
+}
+
+.photo{
+    border-radius: 50%;
+    margin-left: 7%;
+}
+
+h1{
+    background-color: hsl(47, 88%, 63%);
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 76%;
+    padding: 5px;
+}
+
+h2{
+    font-size: 12px;
+    color: black;
+    padding-left: 7%;
+}
+
+h3{
+    font-size: 35px;
+    color: black;
+    padding-left: 7%;
+    font-weight: bold;
+}
+
+p{
+    font-size: 11px;
+    color: grey;
+    padding-left: 7%;
+    padding-bottom: 5%;
+    line-height: 2em;
+}
+
+h4{
+    font-size: 15px;
+    color: black;
+    padding-left: 7%;
+    float: right;
+    padding-right: 56%;
+}
